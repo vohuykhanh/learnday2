@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 29, 2020, 8:17:07 PM
+    Author     : thain
+*/
+body{
+    margin: 0px;
+    padding: 0px;
+ 
+}
+.kboder{
+    width: 350px;
+    min-height:65px;
+    margin-top: 250px;
+    margin-left: 200px;
+    padding-top: 20px;
+    background: seagreen;
+}
+.kboder a{
+    margin-top: 5px;
+    padding-left: 10px;
+    text-align: center;
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+ 
+}
+
+
